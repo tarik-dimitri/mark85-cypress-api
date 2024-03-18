@@ -1,0 +1,37 @@
+{
+    "login": {
+        "name": "Lagertha",
+        "email": "lagertha@gmail.com",
+        "password": "pwd123"
+    },
+
+    "inv_pass": {
+        "email": "tarik.feitosa@gmail.com",
+        "password": "123456"
+    },
+
+    "inv_404": {
+        "email": "eleven@gmail.com",
+        "password": "pwd123"
+
+    },
+
+    "create": {
+        "name": "Tarik Dimitri",
+        "email": "tarik.feitosa@gmail.com",
+        "password": "pwd123"
+    },
+
+    "dup_email": {
+        "name": "Yan Nascimento",
+        "email": "yan@gmail.com",
+        "password": "pwd123"
+    },
+
+    "required": {
+        "name": "Luke",
+        "email": "luke@gmail.com",
+        "password": "pwd123"
+    }
+
+}

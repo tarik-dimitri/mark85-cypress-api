@@ -1,0 +1,30 @@
+{
+    "create": {
+        "user": {
+            "name": "Luan Santana",
+            "email": "luan@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Pagar a fatura do cartão",
+            "tags": [
+                "nubank",
+                "smiles",
+                "ourocard"
+            ]
+        }
+
+    },
+
+    "dup": {
+        "user": {
+            "name": "Chay Sued",
+            "email": "chay@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Fazer compras no mercado"
+        }
+
+    }
+}
